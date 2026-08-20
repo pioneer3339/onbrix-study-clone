@@ -1,0 +1,122 @@
+{
+  "melon": {
+    "hasCoupon": true,
+    "btn": "전체보기",
+    "items": [
+      {
+        "image": "/assets/detail/story/story-melon-1.webp",
+        "category": "과일생활",
+        "title": "피크닉 디저트로 가볍게 만드는 멜론 케이크",
+        "text": "멜론 생크림 케이크"
+      },
+      {
+        "image": "/assets/detail/story/story-melon-2.webp",
+        "category": "과일생활",
+        "title": "집에서 즐기는 후르츠 파인다이닝",
+        "text": "복숭아&amp;멜론 카르파치오"
+      },
+      {
+        "image": "/assets/detail/story/story-melon-3.webp",
+        "category": "과일생활",
+        "title": "올여름 달콤하게 혹은 우아하게",
+        "text": "시원한 수박케이크"
+      }
+    ]
+  },
+  "grapes": {
+    "hasCoupon": true,
+    "btn": "전체보기",
+    "items": [
+      {
+        "image": "/assets/detail/story/story-grapes-1.webp",
+        "category": "과일생활",
+        "title": "포도 세척·보관법",
+        "text": "포도 씻을 때 알맹이 떼면 안 되는 이유"
+      },
+      {
+        "image": "/assets/detail/story/story-grapes-2.webp",
+        "category": "월간 과일",
+        "title": "큐레이터와 함께하는 Fruits Check!",
+        "text": "국산 포도의 명성 샤인머스켓"
+      },
+      {
+        "image": "/assets/detail/story/story-grapes-3.webp",
+        "category": "과일생활",
+        "title": "고소 달콤 짭짤 세가지 맛",
+        "text": "샤인머스켓 치즈볼"
+      }
+    ]
+  },
+  "peach": {
+    "hasCoupon": true,
+    "btn": "전체보기",
+    "items": [
+      {
+        "image": "/assets/detail/story/story-peach-1.webp",
+        "category": "월간 과일",
+        "title": "산지에서 식탁까지 복숭아 맛을 지키는 세 가지",
+        "text": "온도 · 시간 · 배송"
+      },
+      {
+        "image": "/assets/detail/story/story-peach-2.webp",
+        "category": "월간 과일",
+        "title": "기대만큼 기준이 높은 프리미엄 복숭아",
+        "text": "복숭아 큐레이션"
+      },
+      {
+        "image": "/assets/detail/story/story-peach-3.webp",
+        "category": "과일생활",
+        "title": "복숭아 세척·보관법",
+        "text": "물복 vs 딱복! 취향 100% 지키는 복숭아 가이드"
+      }
+    ]
+  },
+  "apple": {
+    "hasCoupon": false,
+    "btn": "전체보기",
+    "items": [
+      {
+        "image": "/assets/detail/story/story-apple-1.webp",
+        "category": "과일생활",
+        "title": "사과 세척·보관법",
+        "text": "냉장고에 넣었는데 푸석해졌다면?"
+      },
+      {
+        "image": "/assets/detail/story/story-apple-2.webp",
+        "category": "후르츠 로드",
+        "title": "일상의 당도를 높이는 과일",
+        "text": "달콤한 과일 루틴 실천하기"
+      },
+      {
+        "image": "/assets/detail/story/story-apple-3.webp",
+        "category": "월간 과일",
+        "title": "사과의 비밀을 낱낱이 파헤치는 ｢그것이 알고 사과｣",
+        "text": "아침이 상쾌해지는 작은 습관사과 한 알이면 충분해요."
+      }
+    ]
+  },
+  "blueberry": {
+    "hasCoupon": false,
+    "btn": "전체보기",
+    "items": [
+      {
+        "image": "/assets/detail/story/story-blueberry-1.webp",
+        "category": "후르츠 로드",
+        "title": "동계 후르츠 리그",
+        "text": "나의 겨울 스포츠 타입은?"
+      },
+      {
+        "image": "/assets/detail/story/story-blueberry-2.webp",
+        "category": "온스토리",
+        "title": "과일이 좋아하는 콜드체인 보관&amp;배송",
+        "text": "겨울은 얼지 않게, 여름은 무르지 않게"
+      },
+      {
+        "image": "/assets/detail/story/story-blueberry-3.webp",
+        "category": "과일생활",
+        "title": "올겨울 가장 예쁜 크리스마스 트리",
+        "text": "Merry onbrix-mas🎄"
+      }
+    ]
+  }
+}

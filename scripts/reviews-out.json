@@ -1,0 +1,86 @@
+{
+  "grapes": {
+    "percent": "96%",
+    "delivery": "8월 21일(금) |EM|새벽 7시 전 도착 예정",
+    "items": [
+      {
+        "image": "/assets/detail/review-grapes-1.webp",
+        "date": "2026-08-18",
+        "text": "무른거 없이 야무진 방울방울 !\r\n맛도 좋아요 도시락에 쏙!"
+      },
+      {
+        "image": "/assets/detail/review-grapes-2.webp",
+        "date": "2026-08-17",
+        "text": "싱싱하고 단맛이 죄고입니다"
+      },
+      {
+        "image": "/assets/detail/review-grapes-3.webp",
+        "date": "2026-08-17",
+        "text": "배송도 빠르고 맛있어요"
+      }
+    ]
+  },
+  "peach": {
+    "percent": "96%",
+    "delivery": "8월 21일(금) |EM|새벽 7시 전 도착 예정",
+    "items": [
+      {
+        "image": "/assets/detail/review-peach-1.webp",
+        "date": "2026-08-12",
+        "text": "너무너무 맛있네요"
+      },
+      {
+        "image": "/assets/detail/review-peach-2.webp",
+        "date": "2026-08-11",
+        "text": "너무 맛있어요! 또 주문해야겠어요"
+      },
+      {
+        "image": "/assets/detail/review-peach-3.webp",
+        "date": "2026-08-11",
+        "text": "아삭아삭 달고 맛있어요\r\n후숙해서 먹으니 더 맛있어요"
+      }
+    ]
+  },
+  "apple": {
+    "percent": "97%",
+    "delivery": "8월 21일(금) |EM|새벽 7시 전 도착 예정",
+    "items": [
+      {
+        "image": "/assets/detail/review-apple-1.webp",
+        "date": "2026-08-18",
+        "text": "아삭아삭하고 너무 맛있어서 재구매하러 왔습니다~"
+      },
+      {
+        "image": "/assets/detail/review-apple-2.webp",
+        "date": "2026-08-18",
+        "text": "홍로에서만 느낄 수 있는 달콤함과 아삭함이 정말 좋습니다. 단단하고 과즙풍부해요."
+      },
+      {
+        "image": "/assets/detail/review-apple-3.webp",
+        "date": "2026-08-18",
+        "text": "신선하고 맛있어요 새콤달콤"
+      }
+    ]
+  },
+  "blueberry": {
+    "percent": "96%",
+    "delivery": "8월 21일(금) |EM|새벽 7시 전 도착 예정",
+    "items": [
+      {
+        "image": "/assets/detail/review-blueberry-1.webp",
+        "date": "2026-07-25",
+        "text": "신선하고 달고 맛있어요"
+      },
+      {
+        "image": "/assets/detail/review-blueberry-2.webp",
+        "date": "2026-07-24",
+        "text": "넘 맛나요오오"
+      },
+      {
+        "image": "/assets/detail/review-blueberry-3.webp",
+        "date": "2026-07-25",
+        "text": "빠른배송 감사합니다"
+      }
+    ]
+  }
+}

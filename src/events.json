@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/events/2.jpg",
+    "text": "",
+    "title": "신규회원 혜택",
+    "period": ""
+  },
+  {
+    "id": 2,
+    "image": "/assets/events/3.jpg",
+    "text": "",
+    "title": "온브릭스 멤버십 혜택",
+    "period": ""
+  },
+  {
+    "id": 3,
+    "image": "/assets/events/1.jpg",
+    "text": "",
+    "title": "ON다, ON브릭스!",
+    "period": "2026-08-03 ~ 2026-08-17"
+  },
+  {
+    "id": 4,
+    "image": "/assets/events/4.jpg",
+    "text": "",
+    "title": "딱복 VS. 물복, 세기의 라이벌이 on다! 결과 공개",
+    "period": "2026-07-17 ~ 2026-07-28"
+  },
+  {
+    "id": 5,
+    "image": "/assets/events/5.jpg",
+    "text": "",
+    "title": "과일 할인지원 프로젝트",
+    "period": "2026-07-02 ~ 2026-07-21"
+  },
+  {
+    "id": 6,
+    "image": "/assets/events/6.jpg",
+    "text": "",
+    "title": "5월 가정의 달 선물 혜택",
+    "period": "2026-04-29 ~ 2026-05-15"
+  }
+]

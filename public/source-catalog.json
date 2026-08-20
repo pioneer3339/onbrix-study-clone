@@ -1,0 +1,826 @@
+{
+  "ranking": [
+    {
+      "id": "ranking-1",
+      "image": "/assets/catalog/6a017c8747cfd5c9.webp",
+      "title": "[농할 25%쿠폰] 당도선별, 국내산 우수산지 말랑이 복숭아 1.5kg / 3kg (중과/대과/특대과)",
+      "price": "19,900원",
+      "sale": "20%",
+      "original": "24,900원",
+      "benefit": ""
+    },
+    {
+      "id": "ranking-2",
+      "image": "/assets/catalog/5648c3c68ffbdc0e.webp",
+      "title": "[농할 25%쿠폰] 가장 좋은 땅에서 처음 길러낸, 국내산 온리브릭스 초작 수박 7kg / 8kg / 9kg",
+      "price": "36,900원",
+      "sale": "20%",
+      "original": "46,200원",
+      "benefit": ""
+    },
+    {
+      "id": "ranking-3",
+      "image": "/assets/catalog/2f61bdc5388c7adc.webp",
+      "title": "[농할 25%쿠폰] 고당도, 국내산 햇사레 말랑이 복숭아 3kg (특품/대과)",
+      "price": "27,900원",
+      "sale": "20%",
+      "original": "34,900원",
+      "benefit": ""
+    },
+    {
+      "id": "ranking-4",
+      "image": "/assets/catalog/0c0d332b52cd5fdc.webp",
+      "title": "[새벽에On] 아삭하게 퍼지는 달콤함, 고당도 햇 홍로사과 2kg / 4kg (14brix/특품)",
+      "price": "28,900원",
+      "sale": "46%",
+      "original": "54,000원",
+      "benefit": ""
+    },
+    {
+      "id": "ranking-5",
+      "image": "/assets/catalog/aeaf487f232423ee.webp",
+      "title": "[농할 25%쿠폰] 당도선별, 국내산 우수산지 딱딱이 복숭아 1.5kg / 3kg (중과/대과)",
+      "price": "17,900원",
+      "sale": "20%",
+      "original": "22,400원",
+      "benefit": ""
+    },
+    {
+      "id": "ranking-6",
+      "image": "/assets/catalog/1082ee5655d6e650.webp",
+      "title": "[농할 25%쿠폰] 천천히 익어 더욱 아삭한, 국내산 고당도 수박 8kg / 9kg",
+      "price": "41,900원",
+      "sale": "20%",
+      "original": "52,400원",
+      "benefit": ""
+    },
+    {
+      "id": "ranking-7",
+      "image": "/assets/catalog/6e2c52bc5f2086f4.webp",
+      "title": "[농할 25%쿠폰] 크림처럼 부드럽고 달콤한, 국내산 홍무화과 1kg / 2kg",
+      "price": "19,900원",
+      "sale": "20%",
+      "original": "24,900원",
+      "benefit": ""
+    },
+    {
+      "id": "ranking-8",
+      "image": "/assets/catalog/7e2044ca01319d24.webp",
+      "title": "[농할 25%쿠폰] 고당도, 국내산 햇사레 딱딱이 복숭아 3kg (8-11입)",
+      "price": "31,900원",
+      "sale": "20%",
+      "original": "39,900원",
+      "benefit": ""
+    },
+    {
+      "id": "ranking-9",
+      "image": "/assets/catalog/9f8a6af0d04f4338.webp",
+      "title": "[농할 25%쿠폰] 입 안 가득 퍼지는 달콤함, 국내산 고당도 머스크 멜론 1입 / 2입 (14brix)",
+      "price": "12,900원",
+      "sale": "20%",
+      "original": "16,200원",
+      "benefit": ""
+    },
+    {
+      "id": "ranking-10",
+      "image": "/assets/catalog/c149cdd39a1953d2.webp",
+      "title": "[농할 25%쿠폰] 연간 50만 송이 판매, 국내산 고당도 수출용 상주 샤인머스켓 (17brix)",
+      "price": "13,900원",
+      "sale": "20%",
+      "original": "17,400원",
+      "benefit": ""
+    }
+  ],
+  "domestic": [
+    {
+      "id": "domestic-1",
+      "image": "/assets/catalog/89c4190ae2d009ad.webp",
+      "title": "[농할 25%쿠폰] 고당도, 국내산 햇사레 말랑이 복숭아 3kg (특품/대과)",
+      "price": "27,900원",
+      "sale": "20%",
+      "original": "34,900원",
+      "benefit": "20,862원"
+    },
+    {
+      "id": "domestic-2",
+      "image": "/assets/catalog/f6f20dd9cb8728f7.webp",
+      "title": "[농할 25%쿠폰] 연간 50만 송이 판매, 국내산 고당도 수출용 상주 샤인머스켓 (17brix)",
+      "price": "13,900원",
+      "sale": "20%",
+      "original": "17,400원",
+      "benefit": "10,394원"
+    },
+    {
+      "id": "domestic-3",
+      "image": "/assets/catalog/f84a59816e80eff0.webp",
+      "title": "[농할 25%쿠폰] 당도선별, 국내산 우수산지 말랑이 복숭아 1.5kg / 3kg (중과/대과/특대과)",
+      "price": "19,900원",
+      "sale": "20%",
+      "original": "24,900원",
+      "benefit": "14,880원"
+    },
+    {
+      "id": "domestic-4",
+      "image": "/assets/catalog/254111cacade414e.webp",
+      "title": "[농할 25%쿠폰] 당도선별, 국내산 우수산지 딱딱이 복숭아 1.5kg / 3kg (중과/대과)",
+      "price": "17,900원",
+      "sale": "20%",
+      "original": "22,400원",
+      "benefit": "13,385원"
+    },
+    {
+      "id": "domestic-5",
+      "image": "/assets/catalog/0b13321bcb4371e3.webp",
+      "title": "[농할 25%쿠폰] 천천히 익어 더욱 아삭한, 국내산 고당도 수박 8kg / 9kg",
+      "price": "41,900원",
+      "sale": "20%",
+      "original": "52,400원",
+      "benefit": "31,331원"
+    },
+    {
+      "id": "domestic-6",
+      "image": "/assets/catalog/cb6578582aabfa31.webp",
+      "title": "[농할 25%쿠폰] 크림처럼 부드럽고 달콤한, 국내산 홍무화과 1kg / 2kg",
+      "price": "19,900원",
+      "sale": "20%",
+      "original": "24,900원",
+      "benefit": "14,880원"
+    },
+    {
+      "id": "domestic-7",
+      "image": "/assets/catalog/6697d1d4918f3298.webp",
+      "title": "[농할 25%쿠폰] 고당도, 국내산 햇사레 딱딱이 복숭아 3kg (8-11입)",
+      "price": "31,900원",
+      "sale": "20%",
+      "original": "39,900원",
+      "benefit": "23,853원"
+    },
+    {
+      "id": "domestic-8",
+      "image": "/assets/catalog/48c9fe0ef5c3419a.webp",
+      "title": "[농할 25%쿠폰] 가장 좋은 땅에서 처음 길러낸, 국내산 온리브릭스 초작 수박 7kg / 8kg / 9kg",
+      "price": "36,900원",
+      "sale": "20%",
+      "original": "46,200원",
+      "benefit": ""
+    },
+    {
+      "id": "domestic-9",
+      "image": "/assets/catalog/73dfd615153a68d2.webp",
+      "title": "[농할 25%쿠폰] 입 안 가득 퍼지는 달콤함, 국내산 고당도 머스크 멜론 1입 / 2입 (14brix)",
+      "price": "12,900원",
+      "sale": "20%",
+      "original": "16,200원",
+      "benefit": "9,646원"
+    },
+    {
+      "id": "domestic-10",
+      "image": "/assets/catalog/d9a3171cf4423def.webp",
+      "title": "[농할 25%쿠폰] 당도선별 고당도 국내산 제주 효돈 하우스 감귤 1.5kg / 2.5kg / 4.5kg",
+      "price": "18,900원",
+      "sale": "20%",
+      "original": "23,700원",
+      "benefit": "14,132원"
+    },
+    {
+      "id": "domestic-11",
+      "image": "/assets/catalog/2f744228b0bb6b6a.webp",
+      "title": "[농할 25%쿠폰] 탱글한 과육에 가득 찬 과즙, 국내산 거봉 포도 600g / 1.2kg / 1.8kg",
+      "price": "16,900원",
+      "sale": "20%",
+      "original": "21,200원",
+      "benefit": "12,637원"
+    },
+    {
+      "id": "domestic-12",
+      "image": "/assets/catalog/6d6363b383dc05a3.webp",
+      "title": "[농할 25%쿠폰] 국내산 온리브릭스 고당도 말랑이 복숭아 3kg (대과/특대과)",
+      "price": "39,900원",
+      "sale": "20%",
+      "original": "49,900원",
+      "benefit": "29,835원"
+    },
+    {
+      "id": "domestic-13",
+      "image": "/assets/catalog/2021bfe66b310aa3.webp",
+      "title": "[농할 25%쿠폰] 새콤달콤 여름 한 입, 국내산 후무사 자두 1kg / 2kg (13brix)",
+      "price": "22,900원",
+      "sale": "20%",
+      "original": "28,700원",
+      "benefit": "17,123원"
+    },
+    {
+      "id": "domestic-14",
+      "image": "/assets/catalog/6aaa95158208e4b7.webp",
+      "title": "[농할 25%쿠폰] 균형 잡힌 단맛과 향, 국내산 캠벨 포도 500g / 1kg",
+      "price": "14,900원",
+      "sale": "20%",
+      "original": "18,700원",
+      "benefit": "11,141원"
+    },
+    {
+      "id": "domestic-15",
+      "image": "/assets/catalog/b3dd4e1c60060ff0.webp",
+      "title": "[농할 25%쿠폰] 한입에 쏙! 싱그러운 국내산 방울 토마토 1kg (500g*2팩)",
+      "price": "15,900원",
+      "sale": "20%",
+      "original": "19,900원",
+      "benefit": "11,889원"
+    },
+    {
+      "id": "domestic-16",
+      "image": "/assets/catalog/a9db6520a6569ace.webp",
+      "title": "[농할 25%쿠폰] 새콤달콤 속 노란, 국내산 천도 복숭아 1kg / 2kg",
+      "price": "13,900원",
+      "sale": "20%",
+      "original": "17,400원",
+      "benefit": "10,394원"
+    },
+    {
+      "id": "domestic-17",
+      "image": "/assets/catalog/1a7ad6bdfc00b707.webp",
+      "title": "[농할 25%쿠폰] 구슬처럼 탱글탱글, 국내산 대추방울토마토 1.5kg이상(750g*2팩)",
+      "price": "16,900원",
+      "sale": "20%",
+      "original": "21,200원",
+      "benefit": "12,637원"
+    },
+    {
+      "id": "domestic-18",
+      "image": "/assets/catalog/617660060c1c5efb.webp",
+      "title": "[농할 25%쿠폰] 16년 연속 브랜드 대상, 국내산 불로초 하우스 감귤 2.5kg / 4.5kg (12.5brix/특품)",
+      "price": "37,900원",
+      "sale": "20%",
+      "original": "47,400원",
+      "benefit": "28,340원"
+    },
+    {
+      "id": "domestic-19",
+      "image": "/assets/catalog/c9162502318637a4.webp",
+      "title": "[농할 25%쿠폰] 단단한 과육이 매력적인, 국내산 흑대추방울토마토 1kg (500g*2팩)",
+      "price": "16,900원",
+      "sale": "20%",
+      "original": "21,200원",
+      "benefit": "12,637원"
+    },
+    {
+      "id": "domestic-20",
+      "image": "/assets/catalog/de849afc214a54de.webp",
+      "title": "[농할 25%쿠폰] 진한 풍미와 단맛의 절정, 국내산 온리브릭스 제주 애플망고 2.3kg이상",
+      "price": "109,000원",
+      "sale": "20%",
+      "original": "136,300원",
+      "benefit": "81,505원"
+    },
+    {
+      "id": "domestic-21",
+      "image": "/assets/catalog/c1ad2683ddc78dd8.webp",
+      "title": "[농할 25%쿠폰] 부드러운 식감이 매력적인, 국내산 주황 대추방울토마토 1kg (500g*2팩)",
+      "price": "15,900원",
+      "sale": "20%",
+      "original": "19,900원",
+      "benefit": "11,889원"
+    },
+    {
+      "id": "domestic-22",
+      "image": "/assets/catalog/875be2bc69b36fa0.webp",
+      "title": "[농할 25%쿠폰] 컬러마다 다른 맛, 국내산 무지개 방울토마토 1.5kg(750g*2팩)",
+      "price": "20,900원",
+      "sale": "20%",
+      "original": "26,200원",
+      "benefit": "15,628원"
+    },
+    {
+      "id": "domestic-23",
+      "image": "/assets/catalog/cd14d9e78a1b17e2.webp",
+      "title": "[농할 25%쿠폰] 진한 풍미에 쫀득한 식감, 국내산 완숙 토마토 2kg",
+      "price": "15,900원",
+      "sale": "20%",
+      "original": "19,900원",
+      "benefit": "11,889원"
+    },
+    {
+      "id": "domestic-24",
+      "image": "/assets/catalog/76fbd5882660904e.webp",
+      "title": "[농할 25%쿠폰] 한입에 톡! 국내산 고당도 스위트벨 토마토 800g",
+      "price": "11,900원",
+      "sale": "20%",
+      "original": "14,900원",
+      "benefit": "8,898원"
+    },
+    {
+      "id": "domestic-25",
+      "image": "/assets/catalog/858cb081617265c6.webp",
+      "title": "[농할 25%쿠폰] 친환경 인증, 26년 햇 수확 국내산 양배추 2kg",
+      "price": "11,900원",
+      "sale": "20%",
+      "original": "14,900원",
+      "benefit": "8,898원"
+    },
+    {
+      "id": "domestic-26",
+      "image": "/assets/catalog/7a0338ff9a097544.webp",
+      "title": "[농할 25%쿠폰] 입안에 퍼지는 부드러운 풍미, 국내산 캄파리 토마토 1kg",
+      "price": "11,900원",
+      "sale": "20%",
+      "original": "14,900원",
+      "benefit": "8,898원"
+    },
+    {
+      "id": "domestic-27",
+      "image": "/assets/catalog/b940229993a7508b.webp",
+      "title": "[농할 25%쿠폰] 뛰어난 찰기와 담백한 맛, 국내산 대학 찰옥수수 5입 / 10입 / 15입 / 20입 / 25입",
+      "price": "6,900원",
+      "sale": "21%",
+      "original": "8,700원",
+      "benefit": "5,159원"
+    },
+    {
+      "id": "domestic-28",
+      "image": "/assets/catalog/bf050fe2d2a25535.webp",
+      "title": "[농할 25%쿠폰] 국내산 제주 애플망고 1입 / 4입 (특품/16brix)",
+      "price": "17,900원",
+      "sale": "20%",
+      "original": "22,400원",
+      "benefit": "13,385원"
+    },
+    {
+      "id": "domestic-29",
+      "image": "/assets/catalog/88f6013e692cb295.webp",
+      "title": "[농할 25%쿠폰] [잔망루피 복캉스 에디션] 국내산 우수산지 딱딱이 복숭아 1.5kg / 3kg",
+      "price": "18,900원",
+      "sale": "20%",
+      "original": "23,700원",
+      "benefit": "14,132원"
+    },
+    {
+      "id": "domestic-30",
+      "image": "/assets/catalog/a1a55defd4fd0dfe.webp",
+      "title": "[농할 25%쿠폰] [잔망루피 복캉스 에디션] 국내산 우수산지 말랑이 복숭아 1.5kg / 3kg",
+      "price": "19,900원",
+      "sale": "20%",
+      "original": "24,900원",
+      "benefit": "14,880원"
+    }
+  ],
+  "peach": [
+    {
+      "id": "peach-1",
+      "image": "/assets/catalog/254111cacade414e.webp",
+      "title": "[농할 25%쿠폰] 당도선별, 국내산 우수산지 딱딱이 복숭아 1.5kg / 3kg (중과/대과)",
+      "price": "17,900원",
+      "sale": "20%",
+      "original": "22,400원",
+      "benefit": "13,385원"
+    },
+    {
+      "id": "peach-2",
+      "image": "/assets/catalog/f84a59816e80eff0.webp",
+      "title": "[농할 25%쿠폰] 당도선별, 국내산 우수산지 말랑이 복숭아 1.5kg / 3kg (중과/대과/특대과)",
+      "price": "19,900원",
+      "sale": "20%",
+      "original": "24,900원",
+      "benefit": "14,880원"
+    },
+    {
+      "id": "peach-3",
+      "image": "/assets/catalog/89c4190ae2d009ad.webp",
+      "title": "[농할 25%쿠폰] 고당도, 국내산 햇사레 말랑이 복숭아 3kg (특품/대과)",
+      "price": "27,900원",
+      "sale": "20%",
+      "original": "34,900원",
+      "benefit": "20,862원"
+    }
+  ],
+  "apple": [
+    {
+      "id": "apple-1",
+      "image": "/assets/catalog/dbc5901292110394.webp",
+      "title": "[새벽에On] 아삭하게 퍼지는 달콤함, 고당도 햇 홍로사과 2kg / 4kg (14brix/특품)",
+      "price": "28,900원",
+      "sale": "46%",
+      "original": "54,000원",
+      "benefit": "28,813원"
+    },
+    {
+      "id": "apple-2",
+      "image": "/assets/catalog/b41488a06c08c7d6.webp",
+      "title": "[새벽에On] 아삭한 식감과 새콤달콤한 맛, 갓 수확한 아오리사과 1.2kg / 2kg / 4kg",
+      "price": "15,900원",
+      "sale": "",
+      "original": "",
+      "benefit": ""
+    },
+    {
+      "id": "apple-3",
+      "image": "/assets/catalog/64fda4ff83545459.webp",
+      "title": "[새벽에On] 황금빛 사과, 고당도 골든볼 황금사과 2kg / 4kg",
+      "price": "28,900원",
+      "sale": "",
+      "original": "",
+      "benefit": ""
+    },
+    {
+      "id": "apple-4",
+      "image": "/assets/catalog/df6ec06b413e39df.webp",
+      "title": "[새벽에On] 껍질째 먹는 세척 사과 1.4kg / 2kg /3.5kg",
+      "price": "17,900원",
+      "sale": "",
+      "original": "",
+      "benefit": ""
+    },
+    {
+      "id": "apple-5",
+      "image": "/assets/catalog/5b8418e9e8f5ac92.webp",
+      "title": "고당도 사과 선물세트 3kg이상(10-12입/특품)",
+      "price": "62,800원",
+      "sale": "",
+      "original": "",
+      "benefit": "62,612원"
+    },
+    {
+      "id": "apple-6",
+      "image": "/assets/catalog/5c8e09e75b7855d0.webp",
+      "title": "로열그린 에디션, 사과 선물세트 4.2kg이상(12입/특품)",
+      "price": "109,800원",
+      "sale": "",
+      "original": "",
+      "benefit": "109,471원"
+    },
+    {
+      "id": "apple-7",
+      "image": "/assets/catalog/10a0f1aeacc3d944.webp",
+      "title": "그린 에디션, 프리미엄 사과 선물세트 3kg이상(9입/특품)",
+      "price": "79,900원",
+      "sale": "",
+      "original": "",
+      "benefit": "79,660원"
+    }
+  ],
+  "direct": [
+    {
+      "id": "direct-1",
+      "image": "/assets/catalog/cb6578582aabfa31.webp",
+      "title": "[농할 25%쿠폰] 크림처럼 부드럽고 달콤한, 국내산 홍무화과 1kg / 2kg",
+      "price": "19,900원",
+      "sale": "20%",
+      "original": "24,900원",
+      "benefit": "14,880원"
+    },
+    {
+      "id": "direct-2",
+      "image": "/assets/catalog/d9a3171cf4423def.webp",
+      "title": "[농할 25%쿠폰] 당도선별 고당도 국내산 제주 효돈 하우스 감귤 1.5kg / 2.5kg / 4.5kg",
+      "price": "18,900원",
+      "sale": "20%",
+      "original": "23,700원",
+      "benefit": "14,132원"
+    },
+    {
+      "id": "direct-3",
+      "image": "/assets/catalog/b940229993a7508b.webp",
+      "title": "[농할 25%쿠폰] 뛰어난 찰기와 담백한 맛, 국내산 대학 찰옥수수 5입 / 10입 / 15입 / 20입 / 25입",
+      "price": "6,900원",
+      "sale": "21%",
+      "original": "8,700원",
+      "benefit": "5,159원"
+    },
+    {
+      "id": "direct-4",
+      "image": "/assets/catalog/9e7890acd91a6eff.webp",
+      "title": "[산지직송] 달콤함과 건강함 KEEP!, 스테비아 완숙 토마토 1.6kg / 3.2kg",
+      "price": "9,900원",
+      "sale": "",
+      "original": "",
+      "benefit": ""
+    },
+    {
+      "id": "direct-5",
+      "image": "/assets/catalog/c2ea14bb11cd4690.webp",
+      "title": "항공직송 고당도 대왕 애플망고 선물세트 2.8kg이상(6입/특품)",
+      "price": "45,900원",
+      "sale": "",
+      "original": "",
+      "benefit": "45,762원"
+    },
+    {
+      "id": "direct-6",
+      "image": "/assets/catalog/3322233d9c5081b2.webp",
+      "title": "효돈농협 제주감귤 에디션, 고당도 하우스 감귤 1.5kg / 3kg",
+      "price": "22,900원",
+      "sale": "",
+      "original": "",
+      "benefit": ""
+    },
+    {
+      "id": "direct-7",
+      "image": "/assets/catalog/e10837524d982840.webp",
+      "title": "[산지직송] 달콤함과 건강함 KEEP!, 스테비아 샤인 토마토 1kg / 2kg",
+      "price": "8,900원",
+      "sale": "",
+      "original": "",
+      "benefit": ""
+    },
+    {
+      "id": "direct-8",
+      "image": "/assets/catalog/ac0013d97637b4de.webp",
+      "title": "[산지직송] 국내 최초 재배 성공, 상위 1% 스위탄 파파야 1kg / 1.5kg",
+      "price": "25,900원",
+      "sale": "",
+      "original": "",
+      "benefit": ""
+    },
+    {
+      "id": "direct-9",
+      "image": "/assets/catalog/ef9f80b157aeba79.webp",
+      "title": "제스프리 골드키위 손잡이 선물세트 2.7kg (18입/점보사이즈)",
+      "price": "38,900원",
+      "sale": "",
+      "original": "",
+      "benefit": "38,783원"
+    },
+    {
+      "id": "direct-10",
+      "image": "/assets/catalog/46e5d1a20ec4f364.webp",
+      "title": "제스프리 골드키위 선물세트 1.35kg (9입/점보사이즈)",
+      "price": "22,900원",
+      "sale": "",
+      "original": "",
+      "benefit": "22,831원"
+    },
+    {
+      "id": "direct-11",
+      "image": "/assets/catalog/81ccec5631ad8899.webp",
+      "title": "제스프리 골드키위 선물세트 2.3kg (16입/점보사이즈)",
+      "price": "34,900원",
+      "sale": "",
+      "original": "",
+      "benefit": "34,795원"
+    },
+    {
+      "id": "direct-12",
+      "image": "/assets/catalog/541a6cc0d7d4a402.webp",
+      "title": "제스프리 골드키위 손잡이 선물세트 2.4kg (18입)",
+      "price": "34,900원",
+      "sale": "",
+      "original": "",
+      "benefit": "34,795원"
+    },
+    {
+      "id": "direct-13",
+      "image": "/assets/catalog/2cff0ddd5c2f9689.webp",
+      "title": "상주 둥시 곶감 선물세트 30입(개당 40g이상/특품)",
+      "price": "49,900원",
+      "sale": "",
+      "original": "",
+      "benefit": "49,750원"
+    },
+    {
+      "id": "direct-14",
+      "image": "/assets/catalog/96897541ef7a28b2.webp",
+      "title": "맑고 깨끗한 산지, GAP 인증 반건곶감 선물세트 24입(개당 50g이상/특품)",
+      "price": "49,900원",
+      "sale": "",
+      "original": "",
+      "benefit": "49,750원"
+    },
+    {
+      "id": "direct-15",
+      "image": "/assets/catalog/82f3348d09596b3f.webp",
+      "title": "60일 자연건조 한가득 상주곶감 2호 선물세트 24입(개당 40g이상/특품)",
+      "price": "45,900원",
+      "sale": "",
+      "original": "",
+      "benefit": "45,762원"
+    },
+    {
+      "id": "direct-16",
+      "image": "/assets/catalog/8ef39891cc18ac84.webp",
+      "title": "전통방식으로 생산한, 참마루 곶감 호두말이 1호 선물세트 1.1kg(3팩/특품)",
+      "price": "49,900원",
+      "sale": "",
+      "original": "",
+      "benefit": "49,750원"
+    },
+    {
+      "id": "direct-17",
+      "image": "/assets/catalog/46a34395347c1e06.webp",
+      "title": "90일의 정성, 프리미엄 정감 대봉 곶감 2호 선물세트 12입(개당 75g이상/특품)",
+      "price": "52,800원",
+      "sale": "",
+      "original": "",
+      "benefit": "52,642원"
+    },
+    {
+      "id": "direct-18",
+      "image": "/assets/catalog/c881ac79fcd02e92.webp",
+      "title": "프리미엄 견과류 8종 선물세트(킹캐슈넛,아몬드,땅콩,호두,피칸,캐슈넛)",
+      "price": "64,900원",
+      "sale": "",
+      "original": "",
+      "benefit": "64,705원"
+    }
+  ],
+  "variety": [
+    {
+      "id": "variety-1",
+      "image": "/assets/catalog/ff7c398c2790bb35.webp",
+      "title": "[새벽에On] 도넛 모양의 쫀득 거반도 납작 복숭아 600g / 1.2kg (13brix)",
+      "price": "29,900원",
+      "sale": "",
+      "original": "",
+      "benefit": ""
+    },
+    {
+      "id": "variety-2",
+      "image": "/assets/catalog/875be2bc69b36fa0.webp",
+      "title": "[농할 25%쿠폰] 컬러마다 다른 맛, 국내산 무지개 방울토마토 1.5kg(750g*2팩)",
+      "price": "20,900원",
+      "sale": "20%",
+      "original": "26,200원",
+      "benefit": "15,628원"
+    },
+    {
+      "id": "variety-3",
+      "image": "/assets/catalog/ac0013d97637b4de.webp",
+      "title": "[산지직송] 국내 최초 재배 성공, 상위 1% 스위탄 파파야 1kg / 1.5kg",
+      "price": "25,900원",
+      "sale": "",
+      "original": "",
+      "benefit": ""
+    },
+    {
+      "id": "variety-4",
+      "image": "/assets/catalog/f81e3df0a12841bb.webp",
+      "title": "[새벽에On] 항공직송 캐나다산 생 블루베리 500g / 1kg / 1.5kg (14-16mm)",
+      "price": "20,900원",
+      "sale": "",
+      "original": "",
+      "benefit": ""
+    }
+  ],
+  "gift": [
+    {
+      "id": "gift-1",
+      "image": "/assets/catalog/6b59b9d014687818.webp",
+      "title": "[새벽에On] 과일바구니, 카멜3호 9종 6kg이상 (파인애플,멜론)",
+      "price": "109,800원",
+      "sale": "",
+      "original": "",
+      "benefit": "109,471원"
+    },
+    {
+      "id": "gift-2",
+      "image": "/assets/catalog/da497e699ccefe1d.webp",
+      "title": "프리미엄 과일선물세트 6종 라임2호 (멜론,망고) 3.4kg이상",
+      "price": "39,800원",
+      "sale": "",
+      "original": "",
+      "benefit": "39,681원"
+    },
+    {
+      "id": "gift-3",
+      "image": "/assets/catalog/1c76e83bace6c275.webp",
+      "title": "프리미엄 과일선물세트 7종 연두1호 (파인애플,망고) 3.7kg이상",
+      "price": "42,900원",
+      "sale": "",
+      "original": "",
+      "benefit": "42,771원"
+    },
+    {
+      "id": "gift-4",
+      "image": "/assets/catalog/20e1c667792f0f16.webp",
+      "title": "프리미엄 과일선물세트 6종 라임1호 (파인애플,망고) 3.1kg이상",
+      "price": "40,000원",
+      "sale": "",
+      "original": "",
+      "benefit": "39,880원"
+    },
+    {
+      "id": "gift-5",
+      "image": "/assets/catalog/5b8418e9e8f5ac92.webp",
+      "title": "고당도 사과 선물세트 3kg이상(10-12입/특품)",
+      "price": "62,800원",
+      "sale": "",
+      "original": "",
+      "benefit": "62,612원"
+    },
+    {
+      "id": "gift-6",
+      "image": "/assets/catalog/55623d75e73c9db4.webp",
+      "title": "[새벽에On] 과일바구니, 베이지3호 7종 4kg이상 (파인애플)",
+      "price": "74,900원",
+      "sale": "",
+      "original": "",
+      "benefit": "74,675원"
+    },
+    {
+      "id": "gift-7",
+      "image": "/assets/catalog/9fb8c53bbd83c197.webp",
+      "title": "프리미엄 과일선물세트 6종 라임3호 (샤인머스캣,애플망고) 2.4kg이상",
+      "price": "52,900원",
+      "sale": "",
+      "original": "",
+      "benefit": "52,741원"
+    },
+    {
+      "id": "gift-8",
+      "image": "/assets/catalog/adaa3fcd271ceb51.webp",
+      "title": "[새벽에On] 과일바구니, 베이지2호 7종 4.3kg이상 (멜론)",
+      "price": "79,800원",
+      "sale": "",
+      "original": "",
+      "benefit": "79,561원"
+    },
+    {
+      "id": "gift-9",
+      "image": "/assets/catalog/7ac0f1738fe0fd23.webp",
+      "title": "[새벽에On] 과일바구니, 카멜4호 9종 5.2kg이상 (샤인머스캣,멜론)",
+      "price": "109,800원",
+      "sale": "",
+      "original": "",
+      "benefit": "109,471원"
+    },
+    {
+      "id": "gift-10",
+      "image": "/assets/catalog/afdb053581575f95.webp",
+      "title": "프리미엄 과일선물세트 9종 에메랄드1호 (파인애플,혼합망고) 5.3kg이상",
+      "price": "67,900원",
+      "sale": "",
+      "original": "",
+      "benefit": "67,696원"
+    },
+    {
+      "id": "gift-11",
+      "image": "/assets/catalog/10a0f1aeacc3d944.webp",
+      "title": "그린 에디션, 프리미엄 사과 선물세트 3kg이상(9입/특품)",
+      "price": "79,900원",
+      "sale": "",
+      "original": "",
+      "benefit": "79,660원"
+    },
+    {
+      "id": "gift-12",
+      "image": "/assets/catalog/826a7a95b30d88cd.webp",
+      "title": "생 복숭아 식감을 살린, 병조림 선물세트(백도&황도)",
+      "price": "26,800원",
+      "sale": "",
+      "original": "",
+      "benefit": "26,720원"
+    },
+    {
+      "id": "gift-13",
+      "image": "/assets/catalog/a26f8959eb0b4145.webp",
+      "title": "프리미엄 조각과일 컷츠, 6종 선물세트 (사과/샤인머스캣/파인애플/애플망고/용과/멜론)",
+      "price": "49,900원",
+      "sale": "",
+      "original": "",
+      "benefit": "49,750원"
+    },
+    {
+      "id": "gift-14",
+      "image": "/assets/catalog/f29ee39004d38d01.webp",
+      "title": "프리미엄 조각과일 컷츠, 9종 선물세트 (사과/샤인머스캣/파인애플/용과/오렌지/방울토마토/애플망고/자몽/멜론)",
+      "price": "59,900원",
+      "sale": "",
+      "original": "",
+      "benefit": "59,720원"
+    },
+    {
+      "id": "gift-15",
+      "image": "/assets/catalog/cd6155b538054630.webp",
+      "title": "[새벽에On] 과일바구니, 카멜2호 10종 6.6kg이상 (샤인머스캣,멜론)",
+      "price": "129,800원",
+      "sale": "",
+      "original": "",
+      "benefit": "129,411원"
+    },
+    {
+      "id": "gift-16",
+      "image": "/assets/catalog/929d07eb7fc0a253.webp",
+      "title": "[새벽에On] 과일바구니, 베이지1호 7종 3.3kg이상 (샤인머스캣,혼합망고)",
+      "price": "89,800원",
+      "sale": "",
+      "original": "",
+      "benefit": "89,531원"
+    },
+    {
+      "id": "gift-17",
+      "image": "/assets/catalog/f25f31ab50dd5d89.webp",
+      "title": "[새벽에On] 과일바구니, 카멜1호 10종 7.1kg이상 (파인애플,멜론)",
+      "price": "119,800원",
+      "sale": "",
+      "original": "",
+      "benefit": "119,441원"
+    },
+    {
+      "id": "gift-18",
+      "image": "/assets/catalog/0f157aca1ee05171.webp",
+      "title": "[새벽에On] 과일바구니, 브라운2호 12종 10kg이상 (샤인,멜론,파인애플)",
+      "price": "179,800원",
+      "sale": "",
+      "original": "",
+      "benefit": "179,261원"
+    }
+  ]
+}
